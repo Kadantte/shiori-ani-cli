@@ -1,5 +1,3 @@
 * @port19x
-/.assets/ @justchokingaround
-README.md @justchokingaround
-hist_transition.sh @Derisis13
-ani-cli.1 @Derisis13
+README.md @justchokingaround @port19x
+ani-cli @Derisis13 @port19x
